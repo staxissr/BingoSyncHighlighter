@@ -1,6 +1,6 @@
 # BingoSyncHighlighter
 
-Allows highlighting goals on a BingoSync board. Requires the BingoSync mod required.
+A Hollow Knight mod allowing highlighting goals on a BingoSync board. Requires the BingoSync mod.
 By default, you can highlight goals on a board by:
 -pressing NumPad0
 -pressing a NumPad key corresponding to the row you want to mark
